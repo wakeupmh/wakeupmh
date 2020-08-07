@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on Node JS with functional approach, aws, azure, terraform and Vue!
 - 🌱 I’m currently learning Golang, IoT, IAC, Quantum Computing, Functional Paradigm
 - ⚡ Fun fact: I like to talk about hermeticism and digress in the inconstancy of existentialism 🔮
-<br/>
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -13,7 +12,5 @@
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/><img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><img align="left" alt="mongo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<br/><br/>
-
-
-<img align="left" alt="wakeupmh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wakeupmh&show_icons=true&hide_border=true&count_private=true" />
+<br/><br/><br/><br/>
+<img align="center" alt="wakeupmh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wakeupmh&show_icons=true&hide_border=true&count_private=true" />

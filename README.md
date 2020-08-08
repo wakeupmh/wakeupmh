@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Node JS with functional approach, aws, azure, terraform and Vue!
 - 🌱 I’m currently learning Golang, IoT, IAC, Quantum Computing, Functional Paradigm
-- ⚡ Fun fact: I like to talk about hermeticism and digress in the inconstancy of existentialism 🔮
+- ⚡ Curiosity: I like to talk about universe and digress in the inconstancy of existentialism 🔮
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />

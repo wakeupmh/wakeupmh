@@ -12,12 +12,7 @@
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/><img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /><img align="left" alt="mongo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<br/><br/><br/><br/>
-<img align="center" alt="wakeupmh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wakeupmh&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
-
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakeupmh&hide=html&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/><br/>
 
 ### Find me on
 

@@ -1,7 +1,7 @@
 ### Hey wazzup, I'm Marcos Henrique 👋
 
 #### I'm a Software Engineer driven to increase team effectiveness, focused on usability and performance improvements.
-![](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
+
 
 ## You can find me on:
 
